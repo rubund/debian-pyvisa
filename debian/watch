@@ -1,2 +1,2 @@
 version=3
-http://sf.net/pyvisa/PyVISA-(.*)\.tar\.gz
+https://github.com/hgrecco/pyvisa/releases /hgrecco/pyvisa/archive/(\d\S+)\.tar\.(?:bz2|gz|xz)
