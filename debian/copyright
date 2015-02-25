@@ -22,9 +22,7 @@ Files: pyvisa/compat/ordereddict.py
 Copyright: 2009 Raymond Hettinger
 License: MIT
 
-Files: docs/_themes/flask/static/small_flask.css
-       docs/_themes/flask/static/flasky.css_t
-       docs/_themes/LICENSE
+Files: docs/_themes/*
 Copyright: 2010 Armin Ronacher
 License: BSD-3-clause
 
