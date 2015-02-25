@@ -1,7 +1,15 @@
 pyvisa (1.6.3-0.1) experimental; urgency=low
 
   * Non-maintainer upload.
-  * 
+  * New upstream release
+  * debian/control:
+    - Added new dependencies: dh-python, {python:Depends}
+    - Standards-version to 3.9.6
+    - Added X-Python-Version
+  * debian/watch: Changed URL (upstream has changed)
+  * debian/copyright:
+    - Added new copyright holders
+    - Changed source URL
 
  -- Ruben Undheim <ruben.undheim@gmail.com>  Wed, 25 Feb 2015 19:51:28 +0100
 
