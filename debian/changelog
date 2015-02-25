@@ -1,0 +1,5 @@
+pyvisa (1.4-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Simon Richter <sjr@debian.org>  Tue, 29 Jan 2013 23:50:45 +0100

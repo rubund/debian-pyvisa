@@ -1,0 +1,16 @@
+Source: pyvisa
+Section: electronics
+Priority: extra
+Maintainer: Simon Richter <sjr@debian.org>
+Build-Depends: debhelper (>= 9), python-setuptools, python-docutils, python-jinja2, python-mock, python-pygments, python-sphinx, python | python-all | python-dev | python-all-dev
+Standards-Version: 3.9.3
+Homepage: http://pyvisa.sourceforge.net/
+
+Package: pyvisa
+Architecture: all
+Depends: libvisa0, ${misc:Depends}
+Description: Python bindings for Virtual Instrument Software Architecture
+ The VISA standard provides a common interface for communication with test
+ and measurement equipment.
+ .
+ This package provides Python bindings for VISA.
