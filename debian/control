@@ -8,7 +8,7 @@ Homepage: http://pyvisa.sourceforge.net/
 
 Package: pyvisa
 Architecture: all
-Depends: libvisa0, ${misc:Depends}
+Depends: libvisa0, ${misc:Depends}, python-enum
 Description: Python bindings for Virtual Instrument Software Architecture
  The VISA standard provides a common interface for communication with test
  and measurement equipment.
